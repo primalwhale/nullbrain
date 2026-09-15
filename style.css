@@ -63,3 +63,5 @@ main.policy .updated { color: #9B948E; font-size: 0.85rem; margin-bottom: 32px; 
 main.policy section { margin-bottom: 24px; }
 main.policy h2 { font-size: 1.05rem; margin-bottom: 8px; }
 main.policy p { color: #444; line-height: 1.7; font-size: 0.95rem; }
+
+h1 .kr { font-size: 0.5em; font-weight: 500; color: #6B6560; margin-left: 8px; vertical-align: middle; }
